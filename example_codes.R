@@ -1,5 +1,6 @@
 
 library(MASS)
+library(gdata)
 #setwd
 source("TayobMurray.gstest.function.R")
 example <- read.csv("example_data.csv")
